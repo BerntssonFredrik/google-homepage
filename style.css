@@ -1,0 +1,71 @@
+body {
+    min-height: 100%;
+}
+li {
+  display: inline;
+
+  
+}
+.navbar {
+  text-align: right;
+ 
+}
+.google {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 189px;
+
+  }
+  .search {
+width: 550px;
+box-sizing: border-box;
+border-radius: 30px;
+position: static;
+top: 311px;
+display: block;
+box-sizing: content-box;
+z-index: auto;
+margin-left: auto;
+margin-right: auto;
+height: 40px;
+margin-top: 25px;
+border-style: outset;
+
+
+}
+.knapp { 
+margin-top: 25px;
+border-radius: 2px;
+height: 35px;
+margin-right: 15px;
+border-style: none;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+box-sizing: border-box;
+border-radius: 0px;
+width: 100%;
+color: gray;
+border-style: none;
+margin-left: -10px;
+margin-right: 10px;
+padding-left: 30px;
+
+background-color: lightgrey; 
+
+}
+.vänster {
+  float: left;
+
+  
+}
+.höger {
+  float: right;
+  margin-top: 40px;
+}
+br {
+  line-height: 15px;
+}
